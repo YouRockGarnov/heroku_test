@@ -1,0 +1,1 @@
+worker: python vkbot_main.py
