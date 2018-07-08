@@ -1,1 +1,1 @@
-worker: python vkbot_main.py
+web: gunicorn app:app --log-file=-
